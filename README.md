@@ -1,1 +1,1 @@
-C++ Tic Tac Toe game using LinkedList
+This is a Tic Tac Toe game using C++ for devoloping. This implementation contains a variety of ways for this game. Either using Linked Lists for Multiplayer or using Arrays for SinglePlayer. It's very known for it's fast execution rather than other implementations.
